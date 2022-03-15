@@ -114,7 +114,7 @@ header nav{
 }
 
 .banner{
-		background: url("homepict.png");
+		background: url("image/homepict.png");
 		background-position: center;
 		background-size: cover;
 		height: 400px;
